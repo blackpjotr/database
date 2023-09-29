@@ -36,7 +36,7 @@
     "node-cleanup": "^2.1.2",
     "pre-commit": "^1.2.2",
     "probe-image-size": "^7.2.3",
-    "sharp": "^0.31.1",
+    "sharp": "^0.32.6",
     "signale": "^1.4.0",
     "slugify": "^1.6.5",
     "transliteration": "^2.2.0",
